@@ -1,0 +1,59 @@
+Q1 write a program to write sum of all the elements which are divisible    
+   by 3
+
+Q2 Write a Program to find the largest elements int the array
+
+Q3 Write a program to find the second the smallest elements int the array
+
+Q4 Write program to find even number from array
+
+Q5 write a program to store character of your name and print as a name
+
+Q6 Write a program to calculate products of the all the elements of the 
+   arrays
+
+Q7 Write a program to search element from the array using linear search 
+   algorithm. 
+
+Q8 Write a program to print array
+ 
+Q9 write a program to take the input from the user and print the arrays.
+
+Q10 write a program to reverse the array
+
+Q11 write a program to store the character of your name and
+
+Q12 print as a name and print your name as a reverse form.
+
+
+Q13 Write a program to find second smallest number using   
+    Another logic
+
+Q14 Write a program to find third largest element
+
+Q15 Count the number of integers from 1 to n which are square and cubes 
+    but count the number only once if it is both (square and cube)
+
+
+Q16 You can decrease any element of the array by 1 in one operation
+
+Q17 Find the total number of decrement operations required to make all 
+    the elements of the array divisible by k.
+
+String Questions
+
+Q18 Write a Program to check whether the string is palindrome or not.
+
+Q19 write a program to count space present in the string.
+
+Q20 write a program to count the number of consonant present int the  
+    String.
+
+Q21 write a program to convert all the vowels of the String with 
+    percentage symbol
+Q22 write a program to count all the special characters present in the 
+    String
+
+
+
+
